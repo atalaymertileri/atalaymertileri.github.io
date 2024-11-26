@@ -35,9 +35,9 @@ author:
   dblp             : "https://dblp.org/pid/139/0607.html"
   googlescholar    : "https://scholar.google.com/citations?user=yFBlI9EAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0002-3610-4963"
   semantic         : "https://www.semanticscholar.org/author/Atalay-Mert-Ileri/2301460" # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
