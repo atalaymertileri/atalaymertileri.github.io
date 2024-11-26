@@ -21,14 +21,14 @@ repository               : "pseudohuman92/pseudohuman92.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-picture.jpg"
   name             : "Atalay Mert Ileri"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Manhattan, Kansas, USA"
   employer         : "Kansas State University"
   uri              : # URL
-  email            : "atalay@ksu.edu" 
+  email            : "atalay@ksu.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
