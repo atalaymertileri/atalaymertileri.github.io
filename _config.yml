@@ -12,9 +12,9 @@ title                    : "Atalay Mert Ileri's Homepage"
 title_separator          : "-"
 name                     : &name "Atalay Mert Ileri"
 description              : &description "personal description"
-url                      : https://pseudohuman92.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://atalaymertileri.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "pseudohuman92/pseudohuman92.github.io"
+repository               : "atalaymertileri/atalaymertileri.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile-picture.jpg"
   name             : "Atalay Mert Ileri"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Postdoctoral researcher at Kansas State University working on formal verification and its applications."
+  bio              : "Postdoctoral researcher at Kansas State University working on formal verification and its applications in symbolic reasoning."
   location         : "Manhattan, Kansas, USA"
   employer         : "Kansas State University"
   uri              : # URL
