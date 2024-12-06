@@ -5,7 +5,7 @@ category: Conferences
 permalink: /publication/vel-iswc
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-11-12
-venue: 'ISWC 2024'
+venue: 'ISWC 2024 Poster Track'
 paperurl: 'https://ceur-ws.org/Vol-3828/paper22.pdf'
 ---
 
