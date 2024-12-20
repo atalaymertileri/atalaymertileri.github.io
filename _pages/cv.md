@@ -11,26 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* Ph.D Electrical Engineering and Computer Science, MIT, USA, 2023
+  * Thesis: Verifying Confidentiality Under Nondeterminism for Storage Systems
+  * Supervisors: M. Frans Kaashoek, Nickolai Zeldovich
+* M.S. in Electrical Engineering and Computer Science, MIT, USA, 2016
+  * Thesis: Mechanisms with Costly Knowledge
+  * Supervisor: Silvio Micali 
+* B.S. in Computer Engineering, Bilkent University, Turkey, 2014
+  * Senior Project: Bilvote: Cryptographically Secure Mobile Voting System
+  * Supervisor: Can Alkan
+    
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2024 - Current : Senior Research Associate
+  * University of Oxford
+  * Supervisor: Nobuko Yoshida
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2023 - December 2024 : Postdoctoral Fellow
+  * Kansas State University
+  * Supervisor: Hande McGinty
   
 Skills
 ======
