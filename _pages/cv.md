@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D Electrical Engineering and Computer Science, MIT, USA, 2023
+* Ph.D. in Electrical Engineering and Computer Science, MIT, USA, 2023
   * Thesis: Verifying Confidentiality Under Nondeterminism for Storage Systems
   * Supervisors: M. Frans Kaashoek, Nickolai Zeldovich
 * M.S. in Electrical Engineering and Computer Science, MIT, USA, 2016
@@ -30,15 +30,6 @@ Work experience
 * April 2023 - December 2024 : Postdoctoral Fellow
   * Kansas State University
   * Supervisor: Hande McGinty
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -57,7 +48,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
